@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dailykhabar.gihub.io/test/sitemap.xml
