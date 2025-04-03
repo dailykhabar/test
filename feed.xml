@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>dailynews</title>
-    <link href="https://dailykhabar/test/feed.xml" rel="self" />
-    <link href="https://dailykhabar/test" />
+    <link href="https://dailykhabar.github.io/test/feed.xml" rel="self" />
+    <link href="https://dailykhabar.github.io/test" />
     <updated>2025-04-04T00:41:39+05:30</updated>
     <author>
         <name>temp</name>
     </author>
-    <id>https://dailykhabar/test</id>
+    <id>https://dailykhabar.github.io/test</id>
 
     <entry>
         <title>dfsdfdsfdsf</title>
         <author>
             <name>temp</name>
         </author>
-        <link href="https://dailykhabar/test/dfsdfdsfdsf.html"/>
-        <id>https://dailykhabar/test/dfsdfdsfdsf.html</id>
+        <link href="https://dailykhabar.github.io/test/dfsdfdsfdsf.html"/>
+        <id>https://dailykhabar.github.io/test/dfsdfdsfdsf.html</id>
 
         <updated>2025-04-04T00:41:39+05:30</updated>
             <summary></summary>

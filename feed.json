@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "dailynews",
     "description": "",
-    "home_page_url": "https://dailykhabar/test",
-    "feed_url": "https://dailykhabar/test/feed.json",
+    "home_page_url": "https://dailykhabar.github.io/test",
+    "feed_url": "https://dailykhabar.github.io/test/feed.json",
     "user_comment": "",
     "author": {
         "name": "temp"
     },
     "items": [
         {
-            "id": "https://dailykhabar/test/dfsdfdsfdsf.html",
-            "url": "https://dailykhabar/test/dfsdfdsfdsf.html",
+            "id": "https://dailykhabar.github.io/test/dfsdfdsfdsf.html",
+            "url": "https://dailykhabar.github.io/test/dfsdfdsfdsf.html",
             "title": "dfsdfdsfdsf",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
