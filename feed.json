@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "temp",
+    "title": "dailynews",
     "description": "",
     "home_page_url": "https://dailykhabar/test",
     "feed_url": "https://dailykhabar/test/feed.json",
@@ -9,5 +9,18 @@
         "name": "temp"
     },
     "items": [
+        {
+            "id": "https://dailykhabar/test/dfsdfdsfdsf.html",
+            "url": "https://dailykhabar/test/dfsdfdsfdsf.html",
+            "title": "dfsdfdsfdsf",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "temp"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-04T00:41:39+05:30",
+            "date_modified": "2025-04-04T00:41:39+05:30"
+        }
     ]
 }
